@@ -74,13 +74,8 @@ Ensure you have the following installed:
 ---
 
 ## Model Details
-- **Algorithm:** Random Forest Classifier
-- **Hyperparameters:**
-  - `n_estimators`: 50
-  - `max_depth`: 10
-  - `min_samples_split`: 5
-  - `min_samples_leaf`: 2
-- **Cross-validation:** 5-fold cross-validation used to evaluate model performance.
+- **Algorithm:** Logistic Regression
+
 
 ---
 
@@ -89,7 +84,7 @@ Ensure you have the following installed:
 - **Evaluation Metrics:**
   - Confusion Matrix
   - Accuracy Score
-  - Classification Report
+  - 
 
 ---
 
